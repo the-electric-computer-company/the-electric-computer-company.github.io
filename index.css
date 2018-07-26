@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+html {
+  color:            white;
+  font-family:      sans-serif;
+  font-size:        40vmin;
+  line-height:      40vmin;
+  background-color: black;
+  text-align:       center;
+  overflow:         hidden;
+}
+
+table {
+  margin: 10vmin auto 10vmin auto;
+}
