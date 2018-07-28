@@ -12,6 +12,24 @@ html {
   overflow:         hidden;
 }
 
+td {
+  width:  40vmin;
+  height: 40vmin;
+}
+
 table {
   margin: 10vmin auto 10vmin auto;
 }
+
+#e0:after       { content:'E';  }
+#e0:hover:after { content:'⠑';  }
+#l:after        { content:'L';  }
+#l:hover:after  { content:'し'; }
+#e1:after       { content:'E';  }
+#e1:hover:after { content:'Ə';  }
+#c:after        { content:'C';  }
+#c:hover:after  { content:'ج';  }
+#o:after        { content:'O';  }
+#o:hover:after  { content:'ꙮ';  }
+#m:after        { content:'M';  }
+#m:hover:after  { content:'མ';  }
